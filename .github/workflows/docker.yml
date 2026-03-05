@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | 
-            jaunpere/practica7.1:latest 
-            ghcr.io/Jaunpere/practica7.1:latest 
+            jaunpere/Practica7.1:latest 
+            ghcr.io/Jaunpere/Practica7.1:latest 
